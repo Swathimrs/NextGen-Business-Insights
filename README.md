@@ -18,9 +18,9 @@ The NextGen Business Insights offers a robust dashboard powered by Microsoft Pow
 
 **View objective:**
 
-1. Created a dashboard [Home View](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Home%20Page.png) for the user to navigate to different Views in the Dashboard.
+Created a dashboard [Home View](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Home%20Page.png)  for the users to navigate to different Views in the Dashboard.
    
-2. The Images have navigation to their respective Views.
+The Images have navigation to their respective Views.
    
 **•	Last Refreshed Date:** Shows the last data when the database was refreshed.
 
@@ -32,7 +32,7 @@ The NextGen Business Insights offers a robust dashboard powered by Microsoft Pow
 
 **View objective:**
 
-1. Created a Dashboard for
+Created a Dashboard for [Finance View](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Finance%20View.png)
    
 **•	KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
@@ -44,7 +44,7 @@ The NextGen Business Insights offers a robust dashboard powered by Microsoft Pow
 
 **View objective:**
 
-1. Created a Dashboard for
+Created a Dashboard for [Sales View](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Sales%20View.png)
 
 **• Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
@@ -58,7 +58,7 @@ The NextGen Business Insights offers a robust dashboard powered by Microsoft Pow
 
 **View objective:**
 
-1. Created a Dashboard for
+Created a Dashboard for [Marketing View](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Marketing%20View.png)
    
 **•	Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
 
@@ -72,7 +72,7 @@ The NextGen Business Insights offers a robust dashboard powered by Microsoft Pow
 
 **View objective:**
 
-1. Created a Dashboard for
+Created a Dashboard for [Supply Chain](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Supply%20Chain.png)
    
 **•	KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
 
@@ -84,7 +84,7 @@ The NextGen Business Insights offers a robust dashboard powered by Microsoft Pow
 
 **View objective:**
 
-1. Created a Dashboard for
+Created a Dashboard for [Executive View](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Executive%20View.png)
    
 **•	KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin % and Net Profit % compared with their benchmark values (Last Year/Targets).
 
