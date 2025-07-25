@@ -18,7 +18,7 @@ The NextGen Business Insights offers a robust dashboard powered by Microsoft Pow
 
 **View objective:**
 
-1. Created a dashboard [Home View](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Home%20Page.png)(https://www.homepage.com) for the user to navigate to different Views in the Dashboard.
+1. Created a dashboard [Home View](https://github.com/Swathimrs/NextGen-Business-Insights/blob/main/Home%20Page.png)for the user to navigate to different Views in the Dashboard.
    
 2. The Images have navigation to their respective Views.
    
